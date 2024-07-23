@@ -1,12 +1,7 @@
-## Hi there 👋
+Handwritten to text
 
 <!--
-**SR1H1THA/SR1H1THA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- digitizing handwritten notes for easy storage,searchability and sharing
+- organizing personal journals,letters and other hand written materials into digital files
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on my academics
-- 🌱 I’m currently learning coding
-- 📫 How to reach me: srihithakothuru12@gmail.com
-- 😄 Pronouns: she/her
 -->
