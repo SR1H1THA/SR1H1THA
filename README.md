@@ -1,4 +1,4 @@
-Handwritten to text
+Text to Handwritten
 
 <!--
 - digitizing handwritten notes for easy storage,searchability and sharing
